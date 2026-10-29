@@ -1,0 +1,15 @@
+# Python virtual environment & cache
+.venv/
+__pycache__/
+*.pyc
+
+# Node & Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+
+# IDE files
+.idea/
+.vscode/
+
+# Local build artifacts
+*.log
